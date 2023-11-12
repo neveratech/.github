@@ -1,4 +1,4 @@
-![Neveratech](https://github.com/neveratech/.github/blob/main/images/neveratech.jpg) 
+![Neveratech](https://github.com/neveratech/.github/blob/main/images/Neveratech%20banner.png) 
 
 ## About Us
 
@@ -6,20 +6,34 @@ Our company has a highly experienced and specialized team that closely follows t
 
 ## Our Areas of Expertise
 
-Our company offers comprehensive corporate consultancy and training services. Additionally, we specialize in developing projects using cutting-edge technologies.
+We offer comprehensive corporate consultancy and training services, coupled with expertise in developing projects using cutting-edge technologies.
 
-- **Corporate Consultancy - Training**: We assist in enhancing your business strategies, optimizing processes, and strengthening your teams.
+**Corporate Consultancy - Training:**
 
-- **Technological Expertise**:
-  - **Reactjs**: We excel in enhancing user interfaces with Reactjs technology.
-  - **Nodejs**: With extensive knowledge, we provide fast and scalable backend solutions.
-  - **Angular**: Experienced in Angular for dynamic and interactive web applications.
+Enhance your business strategies, optimize processes, and strengthen your teams with our expert assistance.
 
-- **Project Development - Web-Mobile**: We bring your web and mobile projects to life with customer-focused solutions.
+**Technological Expertise:**
 
-## Which Technologies?
+**Reactjs:** Excel in elevating user interfaces with Reactjs technology.
 
-Keeping a close eye on technological trends, we choose the most suitable technologies for your projects. Prioritizing customer satisfaction, we offer tailored solutions to meet the needs of your business.
+**Nodejs:** Provide fast and scalable backend solutions with extensive knowledge.
+
+**Angular:** Experience in developing dynamic and interactive web applications.
+
+**.Net:** Leverage the power of .Net for robust and scalable applications.
+
+**MSSQL:** Harness the capabilities of MSSQL for efficient database management.
+
+**Mongo DB:** Utilize MongoDB for flexible and scalable NoSQL database solutions.
+
+**Swift:** Develop high-performance and sleek iOS applications with Swift.
+
+**React Native:** Create cross-platform mobile applications with React Native.
+
+
+**Project Development (Web-Mobile):** 
+
+Bring your web and mobile projects to life with customer-focused solutions tailored to your needs.
 
 ## References
 
