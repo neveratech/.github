@@ -37,7 +37,7 @@ Bring your web and mobile projects to life with customer-focused solutions tailo
 
 ## References
 
-We proudly serve leading companies in various sectors. Our references include renowned organizations such as Siemens, Hugo Boss, Türkiye Finans Bankası, Aktif Bank etc.
+![Referances](https://github.com/neveratech/.github/blob/main/images/Referances.png)
 
 ## Contact
 
