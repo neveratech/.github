@@ -14,7 +14,7 @@ Enhance your business strategies, optimize processes, and strengthen your teams 
 
 **Technological Expertise:**
 
-**Reactjs:** Excel in elevating user interfaces with Reactjs technology.
+**Reactjs:** Elevating user interfaces with Reactjs technology.
 
 **Nodejs:** Provide fast and scalable backend solutions with extensive knowledge.
 
